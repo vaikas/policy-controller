@@ -56,7 +56,7 @@ jobs:
     - name: Install yq
       uses: mikefarah/yq@1c7dc0e88aad311c89889bc5ce5d8f96931a1bd0 # v4.25.3
 
-    - uses: sigstore/cosign-installer@b3413d484cc23cf8778c3d2aa361568d4eb54679 # v2.3.0
+    - uses: sigstore/cosign-installer@f3c664df7af409cb4873aa5068053ba9d61a57b6 # v2.3.0
 
     - name: Setup mirror
       uses: chainguard-dev/actions/setup-mirror@main

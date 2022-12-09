@@ -47,8 +47,8 @@ require (
 	go.uber.org/atomic v1.10.0
 	go.uber.org/zap v1.23.0
 	golang.org/x/crypto v0.3.0
-	golang.org/x/net v0.2.0
-	golang.org/x/sys v0.2.0
+	golang.org/x/net v0.3.1-0.20221206200815-1e63c2f08a10
+	golang.org/x/sys v0.3.0
 	golang.org/x/time v0.2.0
 	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.28.1
@@ -57,7 +57,7 @@ require (
 	k8s.io/api v0.25.3
 	k8s.io/apimachinery v0.25.3
 	k8s.io/client-go v0.25.3
-	k8s.io/code-generator v0.25.3
+	k8s.io/code-generator v0.25.5
 	k8s.io/kube-openapi v0.0.0-20221012153701-172d655c2280
 	knative.dev/hack v0.0.0-20221104013908-8f3c7050408b
 	knative.dev/hack/schema v0.0.0-20221024013916-9d2ae47c16b2
@@ -245,8 +245,8 @@ require (
 	golang.org/x/mod v0.6.0 // indirect
 	golang.org/x/oauth2 v0.1.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/term v0.2.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/term v0.3.0 // indirect
+	golang.org/x/text v0.5.0 // indirect
 	golang.org/x/tools v0.2.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.2.0 // indirect
 	google.golang.org/api v0.101.0 // indirect
